@@ -98,7 +98,7 @@ def get_emoji(name: str, fallback: str = "") -> str:
     return fallback
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = os.getenv("8820198558:AAHF9KX1z-ViqShxObr_uNXq9wyDZBiBzOg")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("ADMIN_ID", "612673014"))
 MONGO_URI = os.getenv("MONGO_URI")
 
