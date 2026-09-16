@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-💠 Glitchyn CPM 1 & 2 Manager (MULTI-LANGUAGE DYNAMIC UI - FULL 10 LANG)
+💠 MRX CPM 1 & 2 Manager (MULTI-LANGUAGE DYNAMIC UI - FULL 10 LANG)
 - TELEGRAM STARS PAYMENT: Bulk Updater (25 Stars), Bulk Validator (15 Stars)
 - VIP USERS GET FREE ACCESS
 - LOGGING SYSTEM: Track email/password changes & bulk actions
@@ -98,8 +98,8 @@ def get_emoji(name: str, fallback: str = "") -> str:
     return fallback
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-OWNER_ID = int(os.getenv("ADMIN_ID", "8254935096"))
+BOT_TOKEN = os.getenv("8820198558:AAHF9KX1z-ViqShxObr_uNXq9wyDZBiBzOg")
+OWNER_ID = int(os.getenv("ADMIN_ID", "612673014"))
 MONGO_URI = os.getenv("MONGO_URI")
 
 CPM_KEYS = {
