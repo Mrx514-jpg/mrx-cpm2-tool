@@ -1,0 +1,4 @@
+python-telegram-bot>=20.7
+requests>=2.31
+pymongo>=4.6.0
+aiohttp
