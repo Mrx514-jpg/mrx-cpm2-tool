@@ -31,7 +31,7 @@ from telegram.ext import (
 )
 
 # ==================== CONFIGURATION ====================
-			BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 OWNER_ID = int(os.getenv("ADMIN_ID", "612673014"))
 
 CPM_KEYS = {
