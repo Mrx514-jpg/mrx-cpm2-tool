@@ -108,6 +108,8 @@ CPM_KEYS = {
 }
 FIREBASE_URL = "https://identitytoolkit.googleapis.com/v1"
 
+BRAND_NAME = "MRX CPM MANAGER"
+
 ERROR_MAP = {
     "EMAIL_NOT_FOUND": f"{get_emoji('error_fail')} Email not found",
     "INVALID_PASSWORD": f"{get_emoji('error_fail')} Wrong password",
