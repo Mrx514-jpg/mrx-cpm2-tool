@@ -1,4 +1,4 @@
-h#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 💠 Mr_x CPM 1 & 2 Manager (MULTI-LANGUAGE DYNAMIC UI - FULL 10 LANG)
 - TELEGRAM STARS PAYMENT: Bulk Updater (25 Stars), Bulk Validator (15 Stars)
