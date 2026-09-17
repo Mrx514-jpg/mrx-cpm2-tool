@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+h#!/usr/bin/env python3
 """
 💠 Mr_x CPM 1 & 2 Manager (MULTI-LANGUAGE DYNAMIC UI - FULL 10 LANG)
 - TELEGRAM STARS PAYMENT: Bulk Updater (25 Stars), Bulk Validator (15 Stars)
@@ -1096,7 +1096,7 @@ def main():
         per_message=False,
     )
     app.add_handler(conv)
-    logger.info("Glitchyn FAST AIOHTTP Bot Online (Multi-Language + Dynamic Buttons + Stars Payment)")
+    logger.info("MRX FAST AIOHTTP Bot Online (Multi-Language + Dynamic Buttons + Stars Payment)")
     app.run_polling(drop_pending_updates=True)
 
 if __name__ == "__main__":
