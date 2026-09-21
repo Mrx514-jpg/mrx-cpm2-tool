@@ -30,7 +30,7 @@ from telegram.ext import (
     ConversationHandler, ContextTypes, filters
 )
 
-#==================== CONFIGURATION ====================
+# ==================== CONFIGURATION ====================
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("ADMIN_ID", "612673014"))
 
