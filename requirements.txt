@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+fastapi
+uvicorn
+aiohttp
+python-dotenv
+pydantic
+pycryptodome
+brotli
+libsql-client
