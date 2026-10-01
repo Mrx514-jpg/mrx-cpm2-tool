@@ -7,3 +7,4 @@ pydantic
 pycryptodome
 brotli
 libsql-client
+aiosqlite
