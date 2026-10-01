@@ -27,7 +27,7 @@ load_dotenv()
 # ==========================================================
 # CONFIG
 # ==========================================================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8820198558:AAFLlgnB_1rfoSPBjRoPSdkmRzGdP0jpqyI").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8820198558:AAHHFchT0qjdyqvIimLBvBLtcxYqRGOucWM").strip()
 ADMIN_ID = int(os.getenv("ADMIN_ID", "612673014"))
 WEBAPP_URL = os.getenv("WEBAPP_URL", "").rstrip("/")
 DB_PATH = os.getenv("DB_PATH", "mrx.db").strip() or "mrx.db"
